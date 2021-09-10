@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+    background: #7ec6bc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ebe717, #7ec6bc);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ebe717, #7ec6bc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 10px;
+}
+div.main_title{
+    width: 204px;
+    height: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
+#main_title_bilibili{
+    text-align: center;
+    color: white;
+    
+}
+div.web{
+    width: 200px;
+    height: 800px;
+    float: left;
+    border:2px solid black;
+    border-radius: 10px;
+}
+div.middle{
+    width: 800px;
+    height: 800px;
+    float: left;
+    border:2px solid black;
+    border-radius: 15px;
+}
+a.bilibili{
+    text-decoration: none;
+    padding-left: 42px;
+    padding-right: 42px;
+    border-radius: 10px;
+}
+a.bilibili:live{
+    color: rgb(250, 100, 100);
+}
+a.bilibili:visited{
+    color: rgb(250, 100, 100);
+}
+a.bilibili:hover{
+    background-color: black;width: 200px;
+    color: white;
+}
+a.bilibili:active{
+    background-color: white;
+    color: black;
+}
+a.aliiki{
+    text-decoration: none;
+    color: rgb(250, 100, 100);
+    padding-left: 42px;
+    padding-right: 42px;
+}
+a.aliiki:hover{
+    background-color: black;
+    color: white;
+}
+a.aliiki:active{
+    background-color: white;
+    color: black;
+}
+
+div.title{
+    border: 2px solid red;
+    text-align: center;
+}
+div.title1{
+    border: 2px solid purple;
+    text-align: center;
+}
